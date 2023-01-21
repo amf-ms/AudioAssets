@@ -1,0 +1,127 @@
+{
+    "cc-music": {
+        "electronic": {
+            "Avaren--Oceanica": {
+                "title": "Oceanica",
+                "artist": "Avaren",
+                "artist-url": "https://freemusicarchive.org/music/Avaren/",
+                "download-url": "https://freemusicarchive.org/music/Avaren/Avaren/Oceanica/",
+                "license": "CC BY 4.0",
+                "license-url": "https://creativecommons.org/licenses/by/4.0/",
+                "filetypes": [
+                    "mp3"
+                ]
+            },
+            "Avaren--Tilt": {
+                "title": "Tilt",
+                "artist": "Avaren",
+                "artist-url": "https://freemusicarchive.org/music/Avaren/",
+                "download-url": "https://freemusicarchive.org/music/Avaren/Avaren/Tilt_1549/",
+                "license": "CC BY 4.0",
+                "license-url": "https://creativecommons.org/licenses/by/4.0/",
+                "filetypes": [
+                    "mp3"
+                ]
+            },
+            "CavalloPazzo--23-Light-Years": {
+                "title": "23 Light Years",
+                "artist": "CavalloPazzo",
+                "artist-url": "https://cavallopazzo.bandcamp.com/",
+                "download-url": "https://freemusicarchive.org/music/CavalloPazzo/Cruise/CavalloPazzo_-_23_Light_Years/",
+                "license": "CC BY-SA 4.0",
+                "license-url": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "filetypes": [
+                    "mp3"
+                ]
+            },
+            "CavalloPazzo--Microship": {
+                "title": "Microship",
+                "artist": "CavalloPazzo",
+                "artist-url": "https://cavallopazzo.bandcamp.com/",
+                "download-url": "https://freemusicarchive.org/music/CavalloPazzo/Cruise/CavalloPazzo_-_Microship/",
+                "license": "CC BY-SA 4.0",
+                "license-url": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "filetypes": [
+                    "mp3"
+                ]
+            },
+            "CavalloPazzo--Too-mutch-water": {
+                "title": "Too Mutch Water",
+                "artist": "CavalloPazzo",
+                "artist-url": "https://cavallopazzo.bandcamp.com/",
+                "download-url": "https://freemusicarchive.org/music/CavalloPazzo/Cruise/CavalloPazzo_-_Too_mutch_water/",
+                "license": "CC BY-SA 4.0",
+                "license-url": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "filetypes": [
+                    "mp3"
+                ]
+            },
+            "Esem--Ssyeru": {
+                "title": "Ssyeru",
+                "artist": "Esem",
+                "artist-url": "https://freemusicarchive.org/music/Esem/contact",
+                "download-url": "https://freemusicarchive.org/music/AGFDelay/Intelligent_Toys_We_Make_Music/12_Esem_-_Ssyeru/",
+                "license": "CC BY-ND 3.0",
+                "license-url": "https://creativecommons.org/licenses/by-nd/3.0/",
+                "filetypes": [
+                    "mp3"
+                ]
+            },
+            "Forrest-James--Understand-That-This-Is-A-Dream": {
+                "title": "Understand That This Is A Dream",
+                "artist": "Forrest James",
+                "artist-url": "https://freemusicarchive.org/music/Forrest_James/contact",
+                "download-url": "https://freemusicarchive.org/music/Various_Artists_RSVP_Tapes/A_Sampler_Compilation/Understand_That_This_Is_A_Dream_-_From_the_album_Modulating_Coil_RSVP008/",
+                "license": "CC BY-ND 3.0",
+                "license-url": "https://creativecommons.org/licenses/by-nd/3.0/",
+                "filetypes": [
+                    "mp3"
+                ]
+            },
+            "Gianluca-Sgalambro--Keep-On-Breathing": {
+                "title": "Keep On Breathing",
+                "artist": "Gianluca Sgalambro",
+                "artist-url": "http://gianlucasgalambro.com/",
+                "download-url": "https://freemusicarchive.org/music/Gianluca_Sgalambro/Flowers_and_Rust/Keep_On_Breathing/",
+                "license": "CC BY 4.0",
+                "license-url": "https://creativecommons.org/licenses/by/4.0/",
+                "filetypes": [
+                    "mp3"
+                ]
+            },
+            "Gianluca-Sgalambro--Revelations": {
+                "title": "Revelations",
+                "artist": "Gianluca Sgalambro",
+                "artist-url": "http://gianlucasgalambro.com/",
+                "download-url": "https://freemusicarchive.org/music/Gianluca_Sgalambro/Flowers_and_Rust/Revelations_1750/",
+                "license": "CC BY 4.0",
+                "license-url": "https://creativecommons.org/licenses/by/4.0/",
+                "filetypes": [
+                    "mp3"
+                ]
+            },
+            "Soulsonic--No": {
+                "title": "No",
+                "artist": "Soulsonic",
+                "artist-url": "https://freemusicarchive.org/music/Soulsonic/",
+                "download-url": "https://freemusicarchive.org/music/AGFDelay/Intelligent_Toys_We_Make_Music/02_Soulsonic_-_No/",
+                "license": "CC BY-ND 3.0",
+                "license-url": "https://creativecommons.org/licenses/by-nd/3.0/",
+                "filetypes": [
+                    "mp3"
+                ]
+            },
+            "Three-Chain-Links--Happiest-Days": {
+                "title": "Happiest Days",
+                "artist": "Three Chain Links",
+                "artist-url": "https://freemusicarchive.org/music/Three_Chain_Links/contact",
+                "download-url": "https://freemusicarchive.org/music/Three_Chain_Links/The_Happiest_Days_Of_Our_Lives/Three_Chain_Links_-_01_-_Happiest_Days/",
+                "license": "CC BY 4.0",
+                "license-url": "https://creativecommons.org/licenses/by/4.0/",
+                "filetypes": [
+                    "mp3"
+                ]
+            }
+        }
+    }
+}
